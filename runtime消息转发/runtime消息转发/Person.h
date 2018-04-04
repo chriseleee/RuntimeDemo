@@ -11,7 +11,4 @@
 @interface Person : NSObject
 -(void)run;
 
--(void)eatWithFood:(NSString *)food;
-
-+(void)run;
 @end

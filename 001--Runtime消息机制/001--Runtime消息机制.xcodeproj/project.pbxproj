@@ -515,6 +515,7 @@
 				07265E821E2F9A3500089869 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		07265E831E2F9A3500089869 /* Build configuration list for PBXNativeTarget "001--Runtime消息机制Tests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +524,7 @@
 				07265E851E2F9A3500089869 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		07265E861E2F9A3500089869 /* Build configuration list for PBXNativeTarget "001--Runtime消息机制UITests" */ = {
 			isa = XCConfigurationList;
@@ -531,6 +533,7 @@
 				07265E881E2F9A3500089869 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
